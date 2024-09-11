@@ -1,7 +1,3 @@
-Aqui está a lista de tarefas organizada para o seu arquivo `README.md` no GitHub, detalhando os itens que devem ser abordados no teste para a Dadosfera:
-
----
-
 # README - Teste para a Vaga de Engenheiro de Soluções na Dadosfera
 
 ## Tarefas

@@ -1,0 +1,75 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "services": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB",
+        "max_steps_parallelism": 0
+    },
+    "steps": {
+        "7a5a7a6d-8405-4b25-ad34-44deb41e38ed": {
+            "environment": "5f67c6a2-0a92-4b3e-aed6-a559206d38c5",
+            "file_path": "03-import.ipynb",
+            "incoming_connections": [
+                "ec27d60f-ac9c-489d-b0f7-995fd2bbd031"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    890,
+                    312.50390625
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "7a5a7a6d-8405-4b25-ad34-44deb41e38ed"
+        },
+        "e2453375-8946-46ef-a13f-607f80347f51": {
+            "environment": "5f67c6a2-0a92-4b3e-aed6-a559206d38c5",
+            "file_path": "01-ingest-and-save.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    255,
+                    312
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "e2453375-8946-46ef-a13f-607f80347f51"
+        },
+        "ec27d60f-ac9c-489d-b0f7-995fd2bbd031": {
+            "environment": "5f67c6a2-0a92-4b3e-aed6-a559206d38c5",
+            "file_path": "02-transform.ipynb",
+            "incoming_connections": [
+                "e2453375-8946-46ef-a13f-607f80347f51"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    566,
+                    311.50390625
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "ec27d60f-ac9c-489d-b0f7-995fd2bbd031"
+        }
+    },
+    "uuid": "f303b80b-8570-4eab-9ab1-9b9581e9a93b",
+    "version": "1.2.3"
+}
