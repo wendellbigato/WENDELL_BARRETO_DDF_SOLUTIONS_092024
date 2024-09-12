@@ -148,3 +148,23 @@ LIMIT
 Esse código SQL foi utilizado para gerar uma tabela que apresenta as principais features extraídas, como o nome do produto, categoria e preço, conforme mostrado na imagem abaixo.
 
 ![Código das Perguntas em SQL](./assets/item04-09-codigodasperguntasemSQL.png)
+
+Esse código SQL foi utilizado para gerar uma tabela que apresenta as principais features extraídas, como o nome do produto, categoria e preço, conforme mostrado na imagem abaixo.
+
+![Código das Perguntas em SQL](./assets/item04-09-codigodasperguntasemSQL.png)
+
+A consulta retornou uma tabela com as informações organizadas em colunas como `Product Name`, `Category`, `Price $`, e `Text`, que podem ser vistas na interface da plataforma Dadosfera.
+
+![Resultado da Query](./assets/item04-10-resultado-da-query.png)
+
+### 10. Criação do Dashboard para Visualização dos Dados
+
+A partir da tabela de produtos gerada com as features extraídas, criei um **dashboard** para facilitar a análise visual dos dados. Esse dashboard foi estruturado com os seguintes elementos:
+
+- **Gráfico de Pizza**: Mostra a distribuição das categorias dos produtos, com a porcentagem total de cada categoria representada por diferentes cores. É possível observar que a categoria dominante corresponde a "outdoor", representando 51,2% dos produtos.
+- **Gráfico de Barras**: Representa a distribuição dos preços dos produtos, exibindo a contagem de produtos para diferentes faixas de preço.
+- **Tabela de Produtos**: Apresenta uma visão detalhada dos produtos, incluindo o nome, categoria, preço, e uma breve descrição.
+
+Esse dashboard permite uma análise rápida e eficiente dos dados categorizados e seus respectivos preços.
+
+![Dashboard de Produtos](./assets/item04-11-dashboard.png)
