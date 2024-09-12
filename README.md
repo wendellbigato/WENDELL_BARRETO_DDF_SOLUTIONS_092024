@@ -1,5 +1,9 @@
 # Case de Solutions Engineering - Dadosfera
 
+
+[![Watch the video](https://img.youtube.com/vi/sFId4DI4Dfc/hqdefault.jpg)](https://youtu.be/sFId4DI4Dfc)
+
+
 ## Índice
 1. [Item 1 - Sobre Solutions Engineering](./item-01.md)
 2. [Item 2 - Ingestão de Dados e Criação de Pipelines](./item-02.md)

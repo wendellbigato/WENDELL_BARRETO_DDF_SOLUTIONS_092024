@@ -1,5 +1,9 @@
 # Item 1 - Sobre Solutions Engineering para E-commerce
 
+
+[![Watch the video](https://img.youtube.com/vi/sFId4DI4Dfc/hqdefault.jpg)](https://youtu.be/sFId4DI4Dfc)
+
+
 ### Problema Principal a ser Resolvido
 A arquitetura atual da empresa enfrenta desafios relacionados à escalabilidade e integração de grandes volumes de dados, além de dificuldades na aplicação de modelos de **inteligência artificial** para melhorar a experiência de compra dos clientes. Com um volume crescente de dados vindos de diferentes fontes (CRM, ERP, IoT, entre outros), é necessário uma solução que permita ingestão, processamento e análise eficiente, e que ao mesmo tempo possa suportar a adoção de **modelos de IA** avançados.
 
