@@ -138,7 +138,7 @@ print(f"Arquivo JSON '{output_json}' salvo com sucesso com as features em uma ú
 Aqui está um exemplo de como as features são armazenadas no arquivo JSON final:
 
 ```json
-"features":"{
+"features":{
   \"product_summary\": \"Leather Case\",
   \"category\": \"mobile\",
   \"material\": \"Leather\",
@@ -150,7 +150,7 @@ Aqui está um exemplo de como as features são armazenadas no arquivo JSON final
   \"compatibility\": \"Samsung Galaxy S8 Plus\",
   \"price\": 25,
   \"other_details\": \"RFID Blocking\"
-}"
+}
 ```
 
 ### 7. Integração e Orquestração da Pipeline

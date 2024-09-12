@@ -1,0 +1,53 @@
+.
+├── 01-datainput.orchest
+├── 01-ingest-and-save.ipynb
+├── 02-transform.ipynb
+├── 03-import.ipynb
+├── app
+│   ├── components
+│   │   ├── brand.py
+│   │   ├── card_generic.py
+│   │   ├── card_interactive.py
+│   │   ├── card_presentation.py
+│   │   ├── chart_bars.py
+│   │   ├── chart_radar_interactive.py
+│   │   ├── examples
+│   │   │   ├── charts
+│   │   │   │   ├── chart1.py
+│   │   │   │   ├── chart2.py
+│   │   │   │   ├── line.py
+│   │   │   │   ├── pie.py
+│   │   │   │   ├── radar.py
+│   │   │   │   └── threeD.py
+│   │   │   └── input
+│   │   │       ├── date_and_time.py
+│   │   │       ├── download_button.py
+│   │   │       ├── file_uploader.py
+│   │   │       ├── number.py
+│   │   │       ├── sliders.py
+│   │   │       └── text.py
+│   │   ├── info_markdown.py
+│   │   ├── sidebar_brand.py
+│   │   ├── sleeper.py
+│   │   └── table.py
+│   ├── Home.py
+│   ├── models
+│   │   └── Usage.py
+│   ├── pages
+│   │   ├── 0 Report.py
+│   │   ├── 1 Collection Report.py
+│   │   ├── 2 Data Validation.py
+│   │   ├── 3 Editable Dataframe.py
+│   │   └── Examples of components.py
+│   ├── requirements.txt
+│   └── theme
+│       └── colors.py
+├── dadosfera
+│   └── snowflake.py
+├── dataset
+│   ├── linhas_excluidas.csv
+│   ├── linhas_validas_com_features.json
+│   └── linhas_validas.csv
+└── tree.txt
+
+10 directories, 40 files
